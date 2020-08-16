@@ -1,0 +1,9 @@
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\bin\Debug\netstandard2.0\NetCoreModels.deps.json
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\bin\Debug\netstandard2.0\NetCoreModels.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\bin\Debug\netstandard2.0\NetCoreModels.pdb
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\obj\Debug\netstandard2.0\NetCoreModels.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\obj\Debug\netstandard2.0\NetCoreModels.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\obj\Debug\netstandard2.0\NetCoreModels.AssemblyInfo.cs
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\obj\Debug\netstandard2.0\NetCoreModels.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\obj\Debug\netstandard2.0\NetCoreModels.pdb
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreModels\obj\Debug\netstandard2.0\NetCoreModels.csprojAssemblyReference.cache

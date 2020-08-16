@@ -1,0 +1,12 @@
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\bin\Debug\netstandard2.0\NetCoreData.deps.json
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\bin\Debug\netstandard2.0\NetCoreData.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\bin\Debug\netstandard2.0\NetCoreData.pdb
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\bin\Debug\netstandard2.0\NetCoreModels.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\bin\Debug\netstandard2.0\NetCoreModels.pdb
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\obj\Debug\netstandard2.0\NetCoreData.csprojAssemblyReference.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\obj\Debug\netstandard2.0\NetCoreData.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\obj\Debug\netstandard2.0\NetCoreData.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\obj\Debug\netstandard2.0\NetCoreData.AssemblyInfo.cs
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\obj\Debug\netstandard2.0\NetCoreData.csproj.CopyComplete
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\obj\Debug\netstandard2.0\NetCoreData.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreData\obj\Debug\netstandard2.0\NetCoreData.pdb

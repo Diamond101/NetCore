@@ -1,0 +1,14 @@
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\bin\Debug\netstandard2.0\NetCoreBusiness.deps.json
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\bin\Debug\netstandard2.0\NetCoreBusiness.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\bin\Debug\netstandard2.0\NetCoreBusiness.pdb
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\bin\Debug\netstandard2.0\NetCoreData.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\bin\Debug\netstandard2.0\NetCoreModels.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\bin\Debug\netstandard2.0\NetCoreData.pdb
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\bin\Debug\netstandard2.0\NetCoreModels.pdb
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\obj\Debug\netstandard2.0\NetCoreBusiness.csprojAssemblyReference.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\obj\Debug\netstandard2.0\NetCoreBusiness.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\obj\Debug\netstandard2.0\NetCoreBusiness.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\obj\Debug\netstandard2.0\NetCoreBusiness.AssemblyInfo.cs
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\obj\Debug\netstandard2.0\NetCoreBusiness.csproj.CopyComplete
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\obj\Debug\netstandard2.0\NetCoreBusiness.dll
+C:\Projects\DotNet\Core\NetCoreApp\NetCoreBusiness\obj\Debug\netstandard2.0\NetCoreBusiness.pdb

@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Matric No:</th>
+            <th>Surname:</th>
+            <th>First Name:</th>
+            <th>Other Name:</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var student in Model)
+        {
+        <tr>
+            <td>@student.MatricNo</td>
+            <td>@student.Surname</td>
+            <td>@student.Firstname</td>
+            <td>@student.Othername</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
